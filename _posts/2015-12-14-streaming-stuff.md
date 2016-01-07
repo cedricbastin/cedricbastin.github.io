@@ -20,3 +20,4 @@ I a similar fashion one could ask why computer screen have aspect ratio 4:3, 16:
 [crw-ratio]:      http://www.crwflags.com/fotw/flags/xf-rati.html
 [wikipedia]:   https://en.wikipedia.org/wiki/National_flags_proportions_by_country
 [w-papersize]: https://en.wikipedia.org/wiki/Paper_size
+https://www.cl.cam.ac.uk/~mgk25/iso-paper.html
