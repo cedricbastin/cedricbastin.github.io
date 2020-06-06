@@ -5,6 +5,8 @@ date:   2020-04-28
 categories: technology, apple, iphone, opinion
 ---
 
+[cross-posted on Medium](https://medium.com/@cedricbastin/apple-services-iphone-se-fe7072df0151)
+
 Apple [just announced a new phone][iphone-announcement], the iPhone SE, but it is not really an exciting phone; it looks like an old phone (iPhone 8 from 2017) with an even older form factor (iPhone 6 from 2014) but with a very new processor (A13 from 2019).
 What got people and the press excited is its very low \$399 price tag and the 'comeback' of a smaller, more familiar form factor that fits the needs of non-tech enthusiasts who just want something that works and will work for a long time.
 But I believe this was not the most important press release from Apple this April.

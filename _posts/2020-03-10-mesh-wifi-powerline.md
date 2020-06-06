@@ -5,6 +5,8 @@ date:   2020-03-10
 categories: technology, standards, wifi, powerline
 ---
 
+[cross-posted on Medium](https://medium.com/@cedricbastin/mesh-wi-fi-power-line-ce0c6fb1967)
+
 Mesh routers are home Wi-Fi systems that promise to bring wireless internet to every corner of your house through the use of multiple satellite access point in addition to the main Wi-Fi router.
 Eero introduced the first consumer-grade Mesh Wi-Fi router in 2015.
 
