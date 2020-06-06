@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Mesh Wi-Fi 💘 Power-line"
+title:  "Mesh Wi-Fi & Power-line"
 date:   2020-03-10
-categories: flags design standrad
+categories: technology, standards, wifi, powerline
 ---
 
 Mesh routers are home Wi-Fi systems that promise to bring wireless internet to every corner of your house through the use of multiple satellite access point in addition to the main Wi-Fi router.
