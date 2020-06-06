@@ -5,45 +5,80 @@ date:   2020-04-28
 categories: technology, apple, iphone, opinion
 ---
 
-- SE announcement
-Apple just announces a new phone, the iPhone SE, but it is not really an exciting phone as it looks an old phone (iPhone 8 from 2017) with an even older form factor (iPhone 6 from 2014) but with a very recent processor (A13 from 2019). What got people and the press excited is it's very low $399 price tag and the comeback of a smaller more familiar form factor that is perfect for non-tech enthusiasts that just want something that works and that will still work after many years! But I believe this was not the most important press release from Apple this April!
+Apple [just announced a new phone][iphone-announcement], the iPhone SE, but it is not really an exciting phone; it looks like an old phone (iPhone 8 from 2017) with an even older form factor (iPhone 6 from 2014) but with a very new processor (A13 from 2019).
+What got people and the press excited is its very low \$399 price tag and the 'comeback' of a smaller, more familiar form factor that fits the needs of non-tech enthusiasts who just want something that works and will work for a long time.
+But I believe this was not the most important press release from Apple this April.
 
-- Services announcement
-In fact a few days later there was another announcement from Apple that got a lot less press coverage, but which arguably is a lot more important for the company's overall long-term strategy. 'The App Store, Apple Arcade, Apple Music, Apple Podcasts, and iCloud are now available in 20 more countries, and Apple Music is available in 52 additional countries.' Even for Apple's standards this is huge amount of additional countries to be added in a single day! On this day for 350 million people the door to Apple's Services opened! Whereas the potential Apple Music user base has expanded by 667 Million! To put this into perspective this is twice the population of the USA!
+In fact a few days later there was [another announcement from Apple][services-announcement] that got a lot less press coverage, but which arguably is a lot more relevant for the company’s long-term strategy:
 
-- Spotify
-Now Apple Music is available in 169 countries, that is more than double Spotify's list of available countries which only totals 80! If you look at Apple's combined services portfolio in 2020 it is a very compelling package: App Store, Apple Arcade, Apple Music, iTune Store (Movies, TV Shows, Music, Ringtones!), Apple TV+, Apple Books & Audiobooks, Apple Podcasts, Apple News+ and iCloud (Drive). If they would introduce some 'Apple Prime' bundle that would include access to all of these services it might make iPhone users choose Apple Music over Spotify and Apple TV+ over Netflix, not because the service is better but because it is 'free'!
+*"The App Store, Apple Arcade, Apple Music, Apple Podcasts, and iCloud are now available in 20 more countries, and Apple Music is available in 52 additional countries."*
 
-- Secured revenue stream from emerging markets
-Of course not all of these 667 Million people will sign up for Apple Music on day one, but they represent a secured revenue stream for years to come both in terms of hardware as well as services subscriptions. As Apple enters new markets it is essential that basic services are available (iCloud & App Store) such that people who buy a new device get a great experience from the start. Apple also knows what percentage of the population they can potentially capture based on their experience in other countries around the world. In many emerging markets people also don't own a computer/laptop and are much more used to doing their banking and admin through their phones, so these are great markets to tap into! Apple is also not playing favorites here or putting all their eggs in one basket, it is clear that they would like to be present in every nation on Earth, especially in times where growth in China is not longer a given and the markets in Europe and the USA are saturated!
+Even for Apple’s standards this means opening up to an extensive list of additional countries, their populations representing a substantial part of the global population.
+On this day, Apple opened the doors to its services for 350 million additional people.
+The potential Apple Music user base has expanded by 667 million people, twice the population of the USA!
 
-- political and media deals
-Let's not forget how hard it is for any company to start operating in a new country; all the legal procedures, all the translations, the localizations and licensing deals that need to happen before they can flip the switch for their digital services. This is especially true for streaming services like Apple Music which provide 3rd party content and thus require many licenses agreement to be in place before they can go live. Apple has a well established relationship with the music industry through its iTunes store years thus is might be a bit easier for them to agree on the terms when compared to a smaller company like Spotify. Apple also took a very different approach with Apple TV+ as they produce all the content themselves and thus own the rights globally such that they don't need to wait for any approval or for concurrent licenses to expire before they can enter a new market, smart!
+Now Apple Music is available in a total of [169 countries][apple-music-countries], more than double [Spotify’s list of available countries][spotify-countries], which counts only 80.
+If you look at Apple’s combined services portfolio in 2020 it offers a compelling package:
+App Store, Apple Arcade, Apple Music, iTune Store (Movies, TV Shows, Music and Ringtones — how is this still a thing?), Apple TV+, Apple Books & Audiobooks, Apple Podcasts, Apple News+ and iCloud (Drive).
+If Apple would introduce some *‘Apple Prime’* bundle that would include access to all of these services it might make iPhone users choose Apple Music over Spotify and Apple TV+ over Netflix, not because these services are better but because they would be *‘free’*!
 
-- smartphones = commodities
-With the iPhone SE, Apple signals that they acknowledge that we have reached 'peak-smartphone' and have entered the age where smartphone are only commodities. This means that smartphones now have a well-defined and expected set of features that allow their users to connect and communicate with the world. Most people don't care about flipping phones or popping cameras, they just want to communicate with their friends and family and let the tech they are using be almost invisible. You don't need a very special phone to browse facebook or watch videos on youtube!
+Of course not all of these 667 million people will sign up for Apple Music on day one, but they represent a growing user base for years to come, both in terms of hardware as well as subscriptions.
+As Apple enters new markets it is essential that its basic services are available (iCloud & App Store) for people buying a new device.
+Apple also knows what percentage of the population they can potentially capture based on their experience in other countries around the world.
+In many emerging markets people don’t own a computer and are much more used to doing their banking and ‘paperwork’ on their phones, which make these markets even more important.
+Apple is also not playing favorites or putting all their eggs in one basket (market/continent), it is clear that they would like to be present in every nation on Earth, especially in times where growth in China is stagnating and the markets in Europe and the North America are saturated.
 
-- Side note: Coronavirus
-It is not clear yet what impact the current Coronavirus pandemic will have on the global economy. But at least short term, a lot of people have lost their job and thus find themselves with less money to spend. So in an interesting twist of events, the iPhone SE was also launched at exactly the right time for all the people who now find themselves in a cash constraint situation.
+Let’s not forget though how hard it is for any company to start operating in a new country; all the legal procedures, translations, localizations and licensing deals that need to happen before they can flip the switch for their digital services to become available.
+This is especially true for streaming services like Apple Music which provide thrid-party content and thus require many license-agreements to be in place before they can go live.
+Apple has a well established relationship with the music industry dating back to 2003, when they started selling digital music (mp3) in its iTunes Store.
+Follow-up streaming agreements might have been easier for them to reach, compared to smaller competitors like Spotify.
+Apple took a different approach with Apple TV+ as they produce all the content themselves and thus own the rights globally so they don’t need to wait for any approval or concurrent licenses to expire before they can enter a new market.
 
-- compared to cheap Android phones
-When Google launched the Pixel 3a for $399 in 2019 it proved that people care more about price (and a good camera) than about futuristic features or the spec sheet! The non-techies of this world are tired of following trends and being forced to adapt to new form factor or interaction models that the foldables and buttonless devices have forced on them, they just want something that works and that will keep them happy for many years! It is very hard for Android manufacturer to produce a good cheap phone, mostly because all of them rely on Qualcomm and their Snapdragon chip so make the experience smoother. All sub-$400 phones can't used the latest and greatest chips as that would drive up the price, thus they will provide a sluggish Android experience in a couple of years because the CPU can't keep up with the Apps that keep getting more complicated, silicon matters!
+With the iPhone SE, Apple acknowledges the industry has reached ‘peak-smartphone’ and has entered the age of commodity smartphones.
+This means that current smartphones have a well-defined and expected set of features that allow their users to connect and communicate with the world.
+Most people don’t care about folding phones or pop-up cameras; they just want to text their friends and family and not think about the technology behind it.
+Scrolling facebook or watching youtube can be achieved by any low-end smartphone in 2020.
 
-- the chip
-Apple learned fast from from the Pixel 3a success; they used some fairly old hardware exciting again by sticking a new chip inside the iPhone SE (A13). This is exactly the same CPU that is inside the >$1000 iPhone 11 Pro! In fact the A13 chip is so powerful that it will never live up to it's full potential in this body as it doesn't need to perform FaceID authentication or combine the pixels captured by multiple cameras into one, as there is only one lens on the iPhone SE. With its power it even manages to create decent portrait photography using the same camera that was used on the iPhone 8! Yes, we are still missing Night Mode, but I'm sure Apple will keep some features in their drawer for the next update to the SE line. Apple took the very smart decision to design their own chips starting with the A4 in the iPhone 4 (2010), this allowed them to be the first to switch to 64-bit (A7 in 2013) technology before all Android phones and to create an iPad Pro (A12X in 2018) that is almost as fast as a MacBook Pro!
+**Side note:** It is not clear yet what impact the current Coronavirus pandemic will have on the global economy, but current developments in the job market imply that people have less disposable cash to spend.
+Under these circumstances, it seems the iPhone SE was launched at the right time for people who find themselves in a cash-constraint situation and still need a new phone.
 
-- software updates
-One thing that Apple has become great at, is to provide software updates for their whole line-up of devices for many years. Right now iOS 13 (from 2019) can be installed on devices all the way back to the iPhone 6S with the A9 chip (2015) so it is safe to say that new devices will be supported with software and OS updates for almost 5 years from the day they launch! This is something that no other phone manufacturer can show for, they are too focused to pump out many different devices with different form factors, that they forget their customer who purchased a device a few years back. Many iPhone users have come to expect long-term support for their phone, and it keeps them loyal to Apple.
+When Google launched the Pixel 3a for \$399 in 2019 it proved that people care more about price (and a good camera) than about futuristic features or the spec sheet.
+The non-techies of this world are tired of following trends and being forced to adapt new form factors or interaction models.
+They just want something that works and that will keep them happy for many years.
+Interestingly it is very hard for Android manufacturers to produce a good cheap phone, mostly because all of them rely on Qualcomm and their Snapdragon chips to make the experience smoother.
+All sub-\$400 phones can’t use the most recent processor as that would drive up the price of the device.
+Hence the the low-end Android devices will not be able to keep up with the fast evolving apps that require more CPU power.
 
-- ecosystem
-Another important part in the iPhone SE equation is the Apple ecosystem; once you bought all you Apps on the App Store, have all your contact on iCloud and have all your family chats on iMessage, it becomes very hard to switch! The Apple ecosystem is one of the main selling point for any iPhone, thus it is essential to capture new users early and make sure they keep upgrading to iPhones, and other related Apple devices. Thus it is a very smart decision to release a phone with arguable much lower profit margins if these can be offset through the sale of Apple services or through the purchase of additional Apple products in the future by this user!
+Apple made fairly old hardware exciting again by sticking a new chip inside the iPhone SE (A13).
+This is exactly the same CPU that is inside the \$1000+ iPhone 11 Pro.
+In fact the A13 chip is so powerful that it will never live up to its full potential in this body as, for example, it doesn’t need to combine the pixels captured by multiple cameras into one (there is only a single lens on the iPhone SE).
+Apple took the decision to design their own chips starting with the A4 in 2010 (iPhone 4), being the first to switch to 64-bit technology (A7 in 2013’s iPhone 5S) and creating an iPad Pro (A12X in 2018) that is almost as powerful as a MacBook Pro.
+The iPhone SE with the A13 even manages to create decent portrait photography using the same camera module that was used on the iPhone 8 with its updated software capabilities.
+It is still lacking Night Mode when comparing to the Pixel 3a, so there is always room for improvement.
 
-- future SEs
-Will Apple release an iPhone SE Plus? Will Apple update their SE devices yearly with low end hardware and very cheap price? Only time will tell! But other phone manufacturer should be very scared about this move as they are now in a fight that is not longer about features but services, and most of them are not prepared for this kind of competition and will likely fall victim to these new circumstances. We can also be sure that Apple will continue to create devices with a >$1000 price tag, to test features and get people excited every year, they will be what the Formula 1 is to your everyday car. The iPhone SE is the perfect phone for most people; it is familiar, performant and reliable! In addition the price makes it the a perfect first smart phone for kids or for people switching over from Android. It is also the perfect device for all the emerging markets that Apple has just announced the launch of their services in!
+Apple is known to provide software updates for their whole line-up of devices for many years.
+iOS 13 (from 2019) can be installed on devices all the way back to the iPhone 6S (A9 chip from 2015).
+It is fair to assume that new devices will be supported with software and OS updates for about 5 years from the day they launch.
+Other manufacturer are more focused to launch many new devices with different form factors every year, rather than providing software updates for their existing users and devices.
+In contrast iPhone users have come to expect long-term support for their devices which keeps them loyal to the Apple brand.
 
+Another important part in the iPhone SE equation is the Apple ecosystem;
+after relying on apps from the App Store, contacts in iCloud and family chats on iMessage, it becomes very hard to switch.
+The Apple ecosystem is one of the main selling point for any iPhone, thus it is essential to capture new users early on and make sure they stick to iPhones and potentially buy other Apple devices.
+It is a smart business decision to release a phone with arguable much lower profit margins if these can be offset by the sale of services or additional Apple products.
 
-https://www.apple.com/newsroom/2020/04/iphone-se-a-powerful-new-smartphone-in-a-popular-design/ 
-https://www.apple.com/newsroom/2020/04/apple-services-now-available-in-more-countries-around-the-world/
-https://support.spotify.com/us/using_spotify/getting_started/full-list-of-territories-where-spotify-is-available/
-https://help.netflix.com/en/node/14164
-Availability of Apple Media Services https://support.apple.com/en-us/HT204411
+Will there be an iPhone SE Plus?
+Will Apple continue to release devices with recycled designs, a modern chip and low price tag?
+Only time can tell.
+But other phone manufacturers should be aware that they are now in a competition that is not longer about features but services.
+Apple is likely to continue creating devices with a $1000+ price tag, to test new features and get people talking every year.
+
+The iPhone SE is the perfect phone for most people;
+it is familiar, performant and reliable.
+In addition, the price makes it the a perfect first smartphone for kids or for people switching over from Android.
+It is also a great device for all the emerging markets where Apple services have just launched.
+
+[iphone-announcement]: https://www.apple.com/newsroom/2020/04/iphone-se-a-powerful-new-smartphone-in-a-popular-design/ 
+[services-announcement]: https://www.apple.com/newsroom/2020/04/apple-services-now-available-in-more-countries-around-the-world/
+[spotify-countries]: https://support.spotify.com/us/using_spotify/getting_started/full-list-of-territories-where-spotify-is-available/
+[apple-music-countries]: https://support.apple.com/en-us/HT204411
