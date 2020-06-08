@@ -11,3 +11,6 @@ linkedin_username: cedricbastin
 
 # Build settings
 markdown: kramdown
+
+# Disqus
+site.disqus.shortname: https-cedricbastin-github-io

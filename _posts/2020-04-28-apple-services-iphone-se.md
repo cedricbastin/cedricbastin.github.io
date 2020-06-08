@@ -3,6 +3,7 @@ layout: post
 title:  "iPhone SE < Apple Services"
 date:   2020-04-28
 categories: technology, apple, iphone, opinion
+comments: true
 ---
 
 [cross-posted on Medium](https://medium.com/@cedricbastin/apple-services-iphone-se-fe7072df0151)
