@@ -2,7 +2,8 @@
 layout: post
 title:  "iPhone SE < Apple Services"
 date:   2020-04-28
-categories: technology, apple, iphone, opinion
+categories: technology
+tags: technology, apple, iphone
 comments: true
 ---
 

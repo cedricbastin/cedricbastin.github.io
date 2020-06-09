@@ -2,7 +2,8 @@
 layout: post
 title:  "Mesh Wi-Fi & Power-line"
 date:   2020-03-10
-categories: technology, standards, wifi, powerline
+categories: technology
+tags: technology, standards, wifi, powerline
 comments: true
 ---
 
