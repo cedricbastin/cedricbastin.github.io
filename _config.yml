@@ -13,4 +13,5 @@ linkedin_username: cedricbastin
 markdown: kramdown
 
 # Disqus
-site.disqus.shortname: https-cedricbastin-github-io
+disqus:
+  shortname: https-cedricbastin-github-io
