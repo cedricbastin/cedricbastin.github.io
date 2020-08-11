@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Apple, Find My Coronavirus"
 date:   2020-06-08
 categories: technology
 tags: technology, apple, google, coronavirus, findmy, tile
