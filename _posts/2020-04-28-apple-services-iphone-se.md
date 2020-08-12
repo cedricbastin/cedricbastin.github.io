@@ -82,9 +82,9 @@ it is familiar, performant and reliable.
 In addition, the price makes it the a perfect first smartphone for kids or for people switching over from Android.
 It is also a great device for all the emerging markets where Apple services have just launched.
 
-![photo1](../_pictures/2020-08-sort-photos/apple-photos.png)
-![photo2](/_pictures/2020-08-sort-photos/apple-photos.png)
-![photo3](_pictures/2020-08-sort-photos/apple-photos.png)
+![photo1]({{site.url}}../_pictures/2020-08-sort-photos/apple-photos.png)
+![photo2]({{site.url}}/_pictures/2020-08-sort-photos/apple-photos.png)
+![photo3]({{site.github.url}}/_pictures/2020-08-sort-photos/apple-photos.png)
 
 [iphone-announcement]: https://www.apple.com/newsroom/2020/04/iphone-se-a-powerful-new-smartphone-in-a-popular-design/ 
 [services-announcement]: https://www.apple.com/newsroom/2020/04/apple-services-now-available-in-more-countries-around-the-world/
