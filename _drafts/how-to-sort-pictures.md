@@ -21,7 +21,7 @@ as this article is about personal pictures that should survive many decades with
 As we take most of our personal pictures on our smartphones, it is easiest to use the tools that come with it, namely Apple Photos (for iPhone/iOS) and Google Photos (Android & iOS).
 These tools provide great discoverability as they allow you to tag people, search for object and events and even show your pictures on a map.
 
-![apple-photos](/pictures/2020-08-sort-photos/apple-photos.png){:class="img-responsive"}
+![apple-photos](/pictures/2020-08-sort-photos/apple-photos.png){: .center-image}
 
 This tools offer a great solution for your pictures of the last few years.
 For instance do I leave all of my iPhone pictures synced to iCloud, but I do not add my older pictures to these services.
@@ -31,7 +31,7 @@ I went through the painful transition from **Google Picasa** to **Apple iPhoto**
 Each time spending way too much time tagging people in pictures and creating properly named albums for events.
 But more recently I stopped doing that as I will only be using these services for what they are without trying to use them to manage all of my older pictures.
 
-![google-photos](/pictures/2020-08-sort-photos/google-photos.png){:class="img-responsive"}
+![google-photos](/pictures/2020-08-sort-photos/google-photos.png){: .center-image}
 
 It is great to know that the photos from my different devices are backed up in the cloud but from time to time it seems like a good idea to copy them onto your local computer as well.
 
@@ -50,7 +50,7 @@ So I created a nested structure to group together a bunch of albums that are rel
 I used to have category-folders such as *family*, *friends*, *school* but it quickly got messy as some events are shared between more categories such that I didn't know where to put them, or where to find them afterwards. So I went back to the idea of chronological sorting and defined **'contexts'** which are chunks of ~5 years that have a clearly defined timespan without overlapping with another.
 For instance *Highschool*, *University*, *Job 1*, *Job 2* etc. This doesn't mean that anything which is in the *University* super-folder actually took place at university but rather they are from this *time period* when I was at university, even if the pictures are actually from a holiday or from my parents home.
 
-![album-context](/pictures/2020-08-sort-photos/album-context.png){:class="img-responsive"}
+![album-context](/pictures/2020-08-sort-photos/album-context.png){: .center-image .retina}
 
 <!-- FAVORITES AND PRINTS -->
 We take a lot of digital photos and more often then not we take multiple pictures of the same subject just to be sure to get at least one good one.
@@ -61,7 +61,7 @@ In order to keep track of those I use `colors`/`tags` in Mac's Finder.
 This is for sure a less permanent solution as these will not be transferred if I would open this folder on Windows,
 but I believe they fulfill their purpose well enough for the time being.
 
-![album-names](/pictures/2020-08-sort-photos/album-names.png){:class="img-responsive"}
+![album-names](/pictures/2020-08-sort-photos/album-names.png){: .center-image .retina}
 
 <!-- METADATA AND SMART FOLDERS -->
 
@@ -69,7 +69,7 @@ A lot of hidden value of pictures actually come from their metadata, date&time, 
 This information might not be relevant by itself but you can use it to surface relevant information using *Smart Folder* on Mac's Finder of *Apple Photos* (I'm not sure what a similar feature on Windows would be called.)
 They help to get around the limitation that a file can only be in a single folder.
 
-![smart-album](/pictures/2020-08-sort-photos/smart-album.png){:class="img-responsive"}
+![smart-album](/pictures/2020-08-sort-photos/smart-album.png){: .center-image .retina}
 
 For instance, even though I have all my pictures sorted in album-folders, I have one smart folder that references all the photos such that I can sort them by name or time.
 Similarly it is super easy to create a smart folders with all the pictures from a single device.

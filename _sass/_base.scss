@@ -43,11 +43,24 @@ ul, ol, dl, figure,
 img {
     max-width: 800px;
     max-height: 500px;
-    text-align: center;
-    vertical-align: middle;
 }
 
+.center-image {
+    margin: 0 auto;
+    display: block;
+}
 
+img[src*='#left'] {
+    float: left;
+}
+
+img[src*='#right'] {
+    float: right;
+}
+
+.retina {
+    transform: scale(0.5);
+}
 
 /**
  * Figures
