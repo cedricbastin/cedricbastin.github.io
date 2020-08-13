@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to sort personal pictures"
+title:  "How to sort personal photos"
 date:   2020-03-12
 categories: technology
 tags: technology, tools, standards
@@ -11,52 +11,52 @@ comments: true
 
 <!-- HISTORY AND BACKGROUND -->
 Digital Cameras have been around for many decades now,
-but how do you keep those pictures organized for the next decades come?
-Digital photos have the disadvantage that you don't just stumble over them in a box on the attic, however they are also much more convenient to store huge amount of them.
-Thus we take a lot more pictures than we used to,
-so organizing them becomes key to having a photo collection that stays enjoyable as it grows. I won't be talking about professional tools such as Lightroom,
-as this article is about personal pictures that should survive many decades without being locked in a media library that might not be supported in the future anymore because it got super-seeded by another program or because the company the create it no longer exists.
+but how do you keep those photos organized for the next decades come?
+Digital photos come with the disadvantage that you don't just stumble onto them in a box in the attic, but they are however much more convenient to store, especially in large numbers.
+Thus people take a lot more photos than before,
+so organizing them becomes key to having a collection that stays enjoyable as it grows. I won't be talking about professional tools such as Lightroom, or other media libraries that might become obsolete in the future. Organizing personal photos should be stable and survive many decades to come. 
 
 <!-- APPLE PHOTOS & GOOGLE PHOTOS -->
-As we take most of our personal pictures on our smartphones, it is easiest to use the tools that come with it, namely Apple Photos (for iPhone/iOS) and Google Photos (Android & iOS).
-These tools provide great discoverability as they allow you to tag people, search for object and events and even show your pictures on a map.
+As we take most of our personal photos using smartphones, it is the easiest to use the tools that come with them, namely Apple Photos (for iPhone/iOS) and Google Photos (Android & iOS).
+These tools provide great discoverability as they allow tagging people, searching for objects and events and even showing photos' location on a map.
 
 ![apple-photos](/pictures/2020-08-sort-photos/apple-photos.png){: .center-image}
 
-This tools offer a great solution for your pictures of the last few years.
-For instance do I leave all of my iPhone pictures synced to iCloud, but I do not add my older pictures to these services.
-For instance you have to pay per month to use these services, Google advertised unlimited storage but will downscale the resolution.
-The main issue is that you don't know for how many years these services will be operating.
+These tools offer great solutions for photos taken in the most recent years.
+For instance I sync all of my iPhone pictures to iCloud, but I do not upload my older photos. These services also need a paid subscription, or come with some disadvantages, Google advertised unlimited storage but while downscaling the resolution.
+Still, the main issue is that it is uncertain for how long these services will be operating.
 I went through the painful transition from **Google Picasa** to **Apple iPhoto** before landing on **Apple Photos**.
 Each time spending way too much time tagging people in pictures and creating properly named albums for events.
 But more recently I stopped doing that as I will only be using these services for what they are without trying to use them to manage all of my older pictures.
 
 ![google-photos](/pictures/2020-08-sort-photos/google-photos.png){: .center-image}
 
-It is great to know that the photos from my different devices are backed up in the cloud but from time to time it seems like a good idea to copy them onto your local computer as well.
+It is great to know that photos from different devices are backed up in the cloud but from time to time it seems like a good idea to copy them onto a local computer as well.
 
 <!-- FILES AND FOLDERS -->
-If you are storing pictures for a long time you probably want to rely on a basic and well established system namly files & folder on your computer. They are easy to transfer to friends or family and it is also easier to create backups onto an external harddrive. The major disadvantage is that a pictures cannot be in multiple albums like *nature*, *friends* and *hiking*.
-So we have to come up with a universal structure and I choose to go chronological rather than theme based (*parties*, *holidays*, *at home*...).
-Quite often there are some loose single shots that don't really belong to any event but I also don't feel like creating a single folder just for them, so I'm adding them to the same album as the previous event.
+Storing pictures for a longer time seems to benefit from having a basic and well established system to do so, namely files & folder on a local computer. This facilitates sharing and transferring photos to friends or family, as well as creating  backups onto an external hard-drive. The major disadvantage is that photos cannot be in multiple albums at once, like *nature*, *friends* and *hiking*.
+So the universal structure for storing has to be intuitive and easily searchable, and so I am choosing a chronological order rather than theme-based (*parties*, *holidays*, *at home*...).
 
 <!-- FOLDERS ARE ALBUMS -->
-As most photos are related to an event at a specific date and time you should group together chunks of ~30 pictures into folders that have a very descriptive name as this will be the only way of easily searching them using your computer's search functionality. Computers are also really dumb when it comes to sorting as they can only sort items in an alphabetical way (sorting by time of creation doesn't make sense for folders). You should only use the the [Asian](https://en.wikipedia.org/wiki/Date_and_time_notation_in_Asia#Date) date notation in it's 0-padded version `YYYY-MM-DD` to prefix your album (folder) names. This will make it very straightforward to get a nice chronological view of all your albums.
+As most photos are related to an event at a specific date and time, larger chunks of photos should group together into folders that have a very descriptive name. This will be the only way of searching for a specific photo, while relying on the file browser's search functionality.
+Moreover, a good name is useful but not enough. Computers don't do a very good job when sorting by creation time, as this action doesn't make sense for folders. A date and time in the [Asian](https://en.wikipedia.org/wiki/Date_and_time_notation_in_Asia#Date) notation in it's 0-padded version `YYYY-MM-DD` should be used to prefix the album (folder) names. This will make it very straightforward to get a nice chronological view of all albums.
+
+Quite often there are some loose single shots that don't really belong to any event but it's also not useful to create a separate folder just for them, so adding them to the previous event can be a reasonable solution.
 
 <!-- CHUNKS OF 5 YEARS -->
 
-Of course you don't want to have an endless list of albums that you have to scroll through.
-So I created a nested structure to group together a bunch of albums that are related.
+This method will likely create an endless list of albums to scroll through, which might be less desirable. 
+So I thought of creating a nested structure to group together several related albums.
 I used to have category-folders such as *family*, *friends*, *school* but it quickly got messy as some events are shared between more categories such that I didn't know where to put them, or where to find them afterwards. So I went back to the idea of chronological sorting and defined **'contexts'** which are chunks of ~5 years that have a clearly defined timespan without overlapping with another.
-For instance *Highschool*, *University*, *Job 1*, *Job 2* etc. This doesn't mean that anything which is in the *University* super-folder actually took place at university but rather they are from this *time period* when I was at university, even if the pictures are actually from a holiday or from my parents home.
+For instance *Highschool*, *University*, *Job 1*, *Job 2* etc. This doesn't mean that anything which is in the *University* super-folder actually took place at university but rather they are from this *time period* when I was at university, even if the pictures are actually from a holiday or from my parents' home.
 
 ![album-context](/pictures/2020-08-sort-photos/album-context.png){: .center-image .retina}
 
 <!-- FAVORITES AND PRINTS -->
-We take a lot of digital photos and more often then not we take multiple pictures of the same subject just to be sure to get at least one good one.
-Thus the value of each individual pictures is also reduced until the curation step has happened to reduce the number of photos to a select few.
-Thus I would recommend to create a sub-folder for each album either named `selection` or `rejected` which helps keep the good shots separated from the less favorable ones.
-Another recurring issue is that you might want to print out some pictures or even create a photo-book with the best shots.
+We take a lot of digital photos and more often then not we take multiple photos of the same subject just to be sure to get at least one good one.
+Thus the value of each individual photo is also reduced until the album is curated.
+What I am doing in this sense is creating sub-folders for each album either named `selection` or `rejected` which help separating the good shots from the less favorable ones.
+Another recurring issue is how to choose the best shots for creating a photo-book or printing out some photos. 
 In order to keep track of those I use `colors`/`tags` in Mac's Finder.
 This is for sure a less permanent solution as these will not be transferred if I would open this folder on Windows,
 but I believe they fulfill their purpose well enough for the time being.
@@ -65,16 +65,16 @@ but I believe they fulfill their purpose well enough for the time being.
 
 <!-- METADATA AND SMART FOLDERS -->
 
-A lot of hidden value of pictures actually come from their metadata, date&time, geo-location tag, device&lens information etc.
-This information might not be relevant by itself but you can use it to surface relevant information using *Smart Folder* on Mac's Finder of *Apple Photos* (I'm not sure what a similar feature on Windows would be called.)
+A lot of hidden value of photos actually come from their metadata, date&time, geo-location tag, device&lens information etc.
+This information might not be relevant by itself but it can be used to surface relevant information using *Smart Folder* on Mac's Finder of *Apple Photos* (I'm not sure what a similar feature on Windows would be called.)
 They help to get around the limitation that a file can only be in a single folder.
 
 ![smart-album](/pictures/2020-08-sort-photos/smart-album.png){: .center-image .retina}
 
 For instance, even though I have all my pictures sorted in album-folders, I have one smart folder that references all the photos such that I can sort them by name or time.
-Similarly it is super easy to create a smart folders with all the pictures from a single device.
+Similarly it is super easy to create a smart folder with all the photos taken by a single device.
 
-Only time will tell of well this system will hold up, but after much back and forth I am quite happy with the current state of my 45k pictures strong library. 🤞
+Only time will tell if this system will hold up, but after much back and forth I am quite happy with the current state of my 45k photos strong library. 🤞
 
 Thanks for reading
 
