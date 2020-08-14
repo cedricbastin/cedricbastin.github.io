@@ -40,9 +40,15 @@ ul, ol, dl, figure,
 /**
  * Images
  */
-img {
-    max-width: 800px;
-    max-height: 500px;
+ @media screen and (resolution: 300dpi) {
+    img {
+        max-width: 800px;
+        max-height: 500px;
+    }
+}
+
+.img-resolution {
+    image-resolution: 100dpi;
 }
 
 .center-image {
@@ -59,7 +65,9 @@ img[src*='#right'] {
 }
 
 .retina {
-    transform: scale(0.5);
+    // transform: scale(0.75);
+    height: 50%;
+    width: 50%;
 }
 
 /**

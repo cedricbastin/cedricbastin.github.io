@@ -93,10 +93,11 @@ Some screenshots were in 2x size because they were taken on a high resolution sc
 
 ```css
 .retina {
-    transform: scale(0.5);
+    transform: scale(0.75);
 }
 ```
 
+(For some reason there is a transparent bounding box that stays around the original image)
 (However I have yet to find a solution which work with both of these combined!)
 
 Sources:
