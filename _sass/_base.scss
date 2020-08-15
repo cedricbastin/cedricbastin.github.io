@@ -35,21 +35,26 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+/**
+ * div table layout
+ */
 
+div.row {
+    display: flex;
+}
+
+div.column {
+    flex: 100%;
+    padding: 10px;
+}
+
+div.column>img {
+    width: 100%
+}
 
 /**
  * Images
  */
- @media screen and (resolution: 300dpi) {
-    img {
-        max-width: 800px;
-        max-height: 500px;
-    }
-}
-
-.img-resolution {
-    image-resolution: 100dpi;
-}
 
 .center-image {
     margin: 0 auto;
@@ -64,8 +69,12 @@ img[src*='#right'] {
     float: right;
 }
 
-.retina {
-    // transform: scale(0.75);
+img.max-size {
+    max-width: 800px;
+    max-height: 500px;
+}
+
+img.retina {
     height: 50%;
     width: 50%;
 }

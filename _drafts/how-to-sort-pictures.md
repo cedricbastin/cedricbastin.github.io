@@ -14,7 +14,8 @@ Digital photos come with the disadvantage that you don't stumble upon them in a 
 but they are however much more convenient to store,
 especially in large numbers.
 Thus people take a lot more photos than before,
-so organizing them becomes key to having a collection that stays enjoyable as it grows. I won't be talking about professional tools such as Lightroom, as these media libraries might become obsolete in the future.
+so organizing them becomes key to having a collection that stays enjoyable as it grows.
+I won't be talking about professional tools such as Lightroom, as these media libraries might become obsolete in the future.
 A personal photo collection should be stable and survive without relying on proprietary software. 
 
 <!-- APPLE PHOTOS & GOOGLE PHOTOS -->
@@ -23,28 +24,35 @@ it is the easiest to use the tools that come with them,
 namely Apple Photos (iPhone/iOS) and Google Photos (Android & iOS).
 These tools provide great discoverability as they allow tagging people, searching for objects and events and even showing photos' locations on a map.
 
-![apple-photos](/pictures/2020-08-sort-photos/apple-photos.png){: .center-image}
+<div class="row">
+	<div class="column">
+		<img src="/pictures/2020-08-sort-photos/apple-photos.png" alt="Apple Photos keyword search">
+	</div>
+	<div class="column">
+		<img src="/pictures/2020-08-sort-photos/google-photos.png" alt="Google Photos map view">
+	</div>
+</div>
 
 These tools offer great solutions for photos taken in the most recent years.
 For instance I sync all of my iPhone photos to iCloud, but I do not upload my older photos. These services also require a paid subscription, or come with other disadvantages, such as downscaling the resolution in the case of Google's unlimited storage.
 Still, the main issue is that it is uncertain how long these services will be operating for.
-I went through the painful transition from **Google Picasa** to **Apple iPhoto** before landing on **Apple Photos**.
+I went through the painful transition from *Google Picasa* to *Apple iPhoto* before landing on *Apple Photos*.
 With each transition I spent too much time tagging people in photos and creating albums.
 More recently, I stopped forcing my own vision onto these tools and I only use them for what they are capable of, without trying to manage all of my older photos through them.
-
-![google-photos](/pictures/2020-08-sort-photos/google-photos.png){: .center-image}
 
 It is great to know that photos from different devices are backed up in the cloud but from time to time it seems like a good idea to copy them onto a local computer as well.
 
 <!-- FILES AND FOLDERS -->
-Storing photos for a longer time benefits from having a basic and well established system to do so; namely files & folders on a local computer. This facilitates sharing and transferring photos to friends and family, as well as creating  backups onto an external hard-drive. The major disadvantage is that photos cannot be in multiple albums at once, like *nature*, *friends* and *hiking*.
+Storing photos for a longer time benefits from having a basic and well established system to do so; namely files & folders on a local computer.This facilitates sharing and transferring photos to friends and family, as well as creating  backups onto an external hard-drive.
+The major disadvantage is that photos cannot be in multiple albums at once, like *nature*, *friends* and *hiking*.
 The universal structure for storing has to be intuitive and easily browsable, so I chose the chronological order rather than a theme-based solution (*parties*, *holidays*, *at home*...).
 
 <!-- FOLDERS ARE ALBUMS -->
 As most photos are related to an event at a specific date and time, larger chunks of photos should be grouped together into folders that have a very descriptive name.
 This is the only way of searching for a specific photo, while relying on the file browser's search functionality (e.g. John hike).
 The computer cannot sort folders chronologically when the date is provided in a human preferred format such as `March 12 2011 hiking with Jane in Scotland`. 
-A date and time in the [Asian](https://en.wikipedia.org/wiki/Date_and_time_notation_in_Asia#Date) notation in it's 0-padded version `YYYY-MM-DD` should be used to prefix the album (folder) names. This will make it very straightforward to get a nice chronological view of all albums.
+A date and time in the [Asian](https://en.wikipedia.org/wiki/Date_and_time_notation_in_Asia#Date) notation in it's 0-padded version `YYYY-MM-DD` should be used to prefix the album (folder) names.
+This will make it very straightforward to get a nice chronological view of all albums.
 This will not work if the European `DD-MM-YYYY` or American `MM-DD-YYYY` format is used.
 
 Sometimes there are are loose single shots that don't really belong to any event but it's also not useful to create a separate folder just for them, so adding them to the previous event can be a reasonable solution.
@@ -53,8 +61,9 @@ Sometimes there are are loose single shots that don't really belong to any event
 
 This method will likely create an endless list of albums to scroll through, which is not desirable.
 So I created a nested structure to group together several chronologically related albums.
-I used to have category-folders such as *family*, *friends* and *school*, but since some events are shared between more categories I was unsure where to place them, or where to find them afterwards. Going back to the idea of chronological sorting, I defined **'contexts'** which are chunks of ~5 years that have a clearly defined timespan without overlapping with one another.
-For instance *Highschool*, *University*, *Job 1*, *Job 2* etc. This doesn't mean that all photos in the *University* super-folder are actually university-related. 
+I used to have category-folders such as *family*, *friends* and *school*, but since some events are shared between more categories I was unsure where to place them, or where to find them afterwards.
+Going back to the idea of chronological sorting, I defined *'contexts'* which are chunks of ~5 years that have a clearly defined timespan without overlapping with one another.
+For instance *Highschool*, *University*, *Job 1*, *Job 2* etc.This doesn't mean that all photos in the *University* super-folder are actually university-related. 
 It only means that they are from this *time period*, even if the photos are actually from from my parents' home or a holiday.
 
 ![album-context](/pictures/2020-08-sort-photos/album-context.png){: .center-image .retina}
