@@ -1,4 +1,11 @@
-# Working with images on your Jekyll blog
+---
+layout: post
+title:  "Working with images on your Jekyll blog"
+date:   2020-08-14
+categories: tutorial
+tags: blog, jekyll, markdown, css
+comments: true
+---
 
 It turns out to be not so easy to work with images on a [Jekyll](https://jekyllrb.com)-powered static website.
 
@@ -99,8 +106,17 @@ Some screenshots were in 2x size because they were taken on a high resolution sc
 
 (For some reason there is a transparent bounding box that stays around the original image)
 (However I have yet to find a solution which work with both of these combined!)
+ 
 
-Sources:
+#### for personal reference
+
+photo ⊂ picture ⊂ image
+
+- **photo**: visual representation of someone/something taken by a camera
+- **picture**: Visual representation of someone/something on any flat surface (drawing, photography and painting)
+- **image**: universal term for a visual representation of any kind (paintings, sculptures and imagination)
+
+#### Sources:
 
 [picture paths](https://travis.media/how-to-add-images-in-jekyll-posts-with-relative-links/)
 [url hash selector](https://stackoverflow.com/questions/255170/markdown-and-image-alignment/16278366#16278366)
