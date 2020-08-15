@@ -48,6 +48,8 @@ The universal structure for storing has to be intuitive and easily browsable, so
 
 <!-- FOLDERS ARE ALBUMS -->
 
+<img srcset="/pictures/2020-08-sort-photos/album-names.png 2x" alt="folder album names" class="center-image">
+
 As most photos are related to an event at a specific date and time, larger chunks of photos should be grouped together into folders that have a very descriptive name.
 This is the only way of searching for a specific photo, while relying on the file browser's search functionality (e.g. `John hike 2003`).
 The computer cannot sort folders chronologically when the date is provided in a human preferred format such as `March 12 2011 hiking with Jane in Scotland`. 
@@ -59,6 +61,8 @@ Sometimes there are are loose single shots that don't really belong to any event
 
 <!-- CHUNKS OF 5 YEARS -->
 
+<img srcset="/pictures/2020-08-sort-photos/album-context.png 2x" alt="folder album context name" class="center-image">
+
 This method will however create an endless list of albums to scroll through, which is not desirable.
 So I created a nested structure to group together several chronologically related albums.
 I used to have category-folders such as *family*, *friends* and *school*, but since some events are shared between more categories I was unsure where to place them, or where to find them afterwards.
@@ -66,8 +70,6 @@ Going back to the idea of chronological sorting, I defined *'context'* folders w
 For instance *Highschool*, *University*, *Job 1*, *Job 2* etc.
 This doesn't mean that all photos in the *University* super-folder are actually university-related. 
 It only means that they are from that specific *time period*, even if the photos are actually from from my parents' home or a holiday.
-
-![album-context](/pictures/2020-08-sort-photos/album-context.png){: .center-image .retina}
 
 <!-- FAVORITES AND PRINTS -->
 
@@ -78,26 +80,25 @@ Another recurring issue is how to mark the best shots for creating a photo-book 
 In order to keep track of those I use `tags` feature in Mac's Finder.
 This is of course a less permanent solution as these tags will not be transferred if I copy folders to Windows, but I believe they fulfill their purpose well enough for the time being.
 
-![album-names](/pictures/2020-08-sort-photos/album-names.png){: .center-image .retina}
+<img srcset="/pictures/2020-08-sort-photos/album-rejected.png 2x" alt="rejected photos sub-folder" class="center-image">
 
 <!-- METADATA AND SMART FOLDERS -->
 
 A lot of hidden value of photos actually come from their metadata which includes date&time, geo-location tag, device&lens information etc.
-This data can be used to surface relevant photos using *Smart Folder* on Mac's Finder or *Smart Albums* in *Apple Photos*.
+This data can be used to surface relevant photos using *Smart Folder* on Mac's Finder.
 They help to get around the limitation that a single photo can only be in a single folder at the same time by creating a symbolic link to the original file.
-
-![smart-album](/pictures/2020-08-sort-photos/smart-album.png){: .center-image .retina}
 
 Even though I have all my photos sorted in album-folders, I have one smart folder that references all the photos so that I can how large my overall collection is and to sort them by name or time.
 Similarly it is super easy to create a smart folder with all the photos taken by a single camera.
 
-Only time will tell if this system will hold up, but after much back and forth I am quite happy with the current state of my 45k-strong photo library. 🤞
+<img srcset="/pictures/2020-08-sort-photos/finder-screenshot.png 2x" alt="folder hierarchy Mac Finder" class="center-image" style="padding-top: 20px; padding-bottom: 20px">
 
-Thanks for reading!
+I also use coloured tags to assign albums to a specific category such as *personal*, *family*, *friends* but that is a topic for another blog post.
+With all those photos now living on the computer (or external harddrive) it is crucial to make regular backups, as any electronic device can fail at any moment!
+Personally I use Apple's Time Machine to have versionned backups, but there are many other solutions on the market.
+Photos are something highly personal that should reflect the memories of the photographer; there is no use in hoarding pictures that other people have taken as they show a different perspective on events that might not recreate the same memories.
+Beware of duplicates, especially when curating a selection of pictures to share or print, these photos are already save in another folder which should be made explicit by adding `(duplicates)` to the selection folder's name for example.
 
-<!--
-- DON'T DUPLICATE WORK
-deleting pictures, sorting pictures, creating events
+Only time will tell if this system will hold up, but after much back-and-forth I am quite happy with the current state of my 45k-strong photo library. 🤞
 
-- BEWARE OF DUPLICATES
--->
+Thanks for reading, let me know in the comment how you organize your personal photos!
