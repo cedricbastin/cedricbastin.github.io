@@ -1,49 +1,49 @@
 ---
 layout: post
-title:  "Apple and Qi Wireless Charging"
-date:   2020-10-14
+title: "Apple and Wireless Charging"
+date: 2020-10-20
 categories: technology
-tags: apple, wireless-charging, airpower, magsafe
+tags: apple, wireless-charging, airpower, magsafe, qi-charging
 comments: true
 ---
 
-# Apple and Qi Wireless Charging
-
 Depending on who you ask, Apple is either too slow or too fast to adopt new technologies.
-On one hand, Apple never put a Blue-ray player into any of their computers, on the other hand they replaced all MacBook I/O ports with USB-C before that standard was even widespread.
-It's worth to keep an eye out for these evolutions(?) and make a guess why Apple is making these particular choices.
+On one hand, Apple never put a Blue-ray player into any of their computers, on the other hand they replaced all MacBook I/O ports with only USB-C before that standard was even widespread, forcing everyone to use adapters to connect their existing peripherals.
+It's interesting to keep an eye out for those choices Apple makes, as they generally take decisions for their long-term strategy, not based on year-over-year trends.
 
 Apple introduced its first wirelessly charging device in April 2015 with the release of the first Apple Watch.
-Using the included 5 Watt charger, the watch could be charged to 80% in 1.5h and 100% in 2h.
-The Apple Watch uses a proprietary wireless charging protocol, which require the purchase of Apple Watch-specific chargers.
-Even though the protocol is based on Qi wireless charging it is not possible to charge an Apple Watch using a 3rd-party wireless charging pad.
-Even though the Apple Watch 3 was able to charge on some non-[MFi][mfi] chargers for a [short period of time][apple-watch-3], Apple never enabled this feature fully for all Apple Watch models.
+Using a 5 Watt charger, the watch could be charged to 80% in 1.5h and 100% in 2h.
+The Apple Watch uses a proprietary wireless charging method, which requires the purchase of Apple-specific chargers.
+Even though the protocol is based on Qi wireless charging it is not possible to charge an Apple Watch using a 3rd-party wireless charger.
+Even though the Apple Watch 3 was able to charge on some non-[MFi][mfi] chargers for a [short period of time][apple-watch-3], Apple never enabled this feature fully for all Apple Watch models, without explaining their decision.
 
 <img srcset="/pictures/2020-10-apple-wireless-charging/apple-watch-charger.jpg 4x" alt="Qi wireless charging logo" class="center-image">
 
-Apple was criticized for not supporting wireless charging on their phones earlier.
-High-end Samsung Galaxy phones supported wireless charging since 2015 with the introduction of the Galaxy S6, and even before separate cases and back covers could be bought, that included this feature.
+Apple was criticized for not supporting wireless charging on their phones while other manufacturers had already adopted this feature.
+High-end Samsung Galaxy phones supported wireless charging since 2015 with the introduction of the Galaxy S6, and even before separate cases and back covers, which included a wireless charging coil, could be bought separately.
 
 In the early days of wireless charging there were two competing standard: Qi from the [WPC][wpc] (Wireless Power Consortium) and Powermat from [PMA][pma] (Power Matters Alliance).
 Both standards were supported by different large-scale player, PMA was backed by Starbucks, AT&T and Delta Airlines whereas the Qi standard had MacDonald's, Verizon and Nokia behind it.
 While not very different from an electrical perspective they used different protocols and thus were not inter-compatible.
-In fact early devices, such as the Samsung Galaxy S6, supported both standards.
+In fact early devices, such as the Samsung Galaxy S6, supported both standards as it was not clear which standard would become more widespread.
 
 <img srcset="/pictures/2020-10-apple-wireless-charging/qi-logo.svg 2x" alt="Qi wireless charging logo" class="center-image">
 
 Apple introduced wireless charging to its iPhone lineup in September 2017 with the iPhone 8 (Plus) and iPhone X.
-Apple chose to use the Qi standard for wireless charging in their phones, which has been included in every model released since.
+They chose to use the Qi standard for wireless charging in their phones, which has been included in every model released since.
 They were also the first iPhones to re-introduce glass back covers since the iPhone 4S (2013), as wireless charging does not work through a metal enclosures.
-The PMA standard hasn't made it into many consumer technology products since, virtually(?) ending the wireless standards war.
-This shows how much weight Apple and its ecosystem pull behind it, once Apple makes a decision it is likely to stick with it long term and other will follow (i.e. removing the headphone jack)
+The PMA standard hasn't made it into many consumer technology products since, marking the end of the wireless standards war.
+This shows how much weight Apple and its ecosystem pull behind it, once they adopt a technology they are very likely to stick with it long term.
+This trend can be observed more generally, whether Apple removes the headphone jack or adds Face Unlock to their phones, others will follow.
 
 <img srcset="/pictures/2020-10-apple-wireless-charging/native-union-wireless-charger.jpg 4x" alt="Qi wireless charging logo" class="center-image">
 
-Apple doesn't like to introduce new hardware for the sake of it, they like to have a long term strategy.
-When the first iPhones with wireless charging shipped, the Qi charging speed was capped at 5W.
-It was only later that year that Apple enabled faster 7.5W charging via a software update in iOS 11.2.
+Apple doesn't introduce new hardware to follow trends or to try out new features, they like to have a long term strategy.
+They don't enable features if they would negatively impact end-user experience or reduce the longevity of the device.
+For instance, when the first iPhones with wireless charging shipped, the Qi charging speed was capped at 5 Watts.
+It was only later that year that Apple enabled faster 7.5W charging via a software update in iOS 11.2 potentially because they hadn't perfected power management until then.
 
-Another interesting episode from Apple history with wireless charging is AirPower.
+Another interesting episode of Apple history with wireless charging is AirPower.
 Announced in September 2017, along the highly anticipated iPhone X, this wireless charging mat was supposed to be able to charge 3 devices at once, including the Apple Watch (which does not use the Qi charging standard).
 After many months of rumors and anticipation for the device, Apple [canceled][airpower-cancelled] the device citing high standard, many believing that they have run into issues with heat management.
 
@@ -78,8 +78,6 @@ It might be the best of both worlds, being able to use any wireless charging mat
 [qi-standard]: https://en.wikipedia.org/wiki/Qi_(standard)
 [apple-watch]: https://en.wikipedia.org/wiki/Apple_Watch
 [apple-iphone]: https://en.wikipedia.org/wiki/IPhone
-
-![Qi wireless charging Logo](pictures/2020-10-apple-wireless-charging/qi-logo.svg)
 
 <!---
 03.2015: Samsung Galaxy S6
