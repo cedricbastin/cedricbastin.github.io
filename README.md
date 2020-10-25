@@ -2,7 +2,7 @@
 
 live blog: <https://cedricbastin.github.io>
 
-## powered by Markdown & Jekyll
+## powered by Markdown, Jekyll & GitHub Pages
 
 setup: <https://jekyllrb.com>
 
